@@ -117,3 +117,8 @@ footer a:hover{
 .icon{
     padding-right: 2%;
 }
+
+.navcontainer{
+  width: 100%;
+  height:  100%;
+}
